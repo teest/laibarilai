@@ -2,7 +2,7 @@ Laibarilai
 ==========
 
 1) Bundle Identifier  
-2) Facebook AppID 
+2) Facebook AppID  
 3) Facebook DisplayName 
 4) URL Types fbID 
 5) Team 
